@@ -1,7 +1,7 @@
 /* Body styling */
 body {
-    color: rgb(79, 158, 72); /* Greenish color for text */
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(71, 86, 221); /* Greenish color for text */
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin: 0;
     padding: 0;
     text-align: center;
@@ -11,7 +11,7 @@ body {
 
 /* Header styling */
 header {
-    background: #5a4975; /* Soft purple background */
+    background: #493bc0; /* Soft purple background */
     padding: 15px; /* Increased padding for better spacing */
     color: white; /* White text for header */
     font-size: 1.5em; /* Larger text for header */
@@ -31,7 +31,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: rgb(155, 71, 189); /* Purple color for links */
+    color: rgb(202, 66, 161); /* Purple color for links */
     text-decoration: none;
     font-weight: bold;
     transition: color 0.3s ease; /* Smooth color transition */
@@ -51,7 +51,7 @@ main {
 /* Footer styling */
 footer {
     margin-top: 30px; /* Added more space above footer */
-    background: #8826c0; /* Purple background */
+    background: #9b1be6; /* Purple background */
     padding: 15px; /* More padding for better spacing */
     color: white; /* White text in footer */
     font-size: 0.9em; /* Slightly smaller text */
