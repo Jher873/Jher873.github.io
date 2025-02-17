@@ -1,12 +1,13 @@
 body {
-    font-family: Arial, sans-serif;
+    background-color: rgb(79, 158, 72);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif sans-serif;
     margin: 0;
     padding: 0;
     text-align: center;
 }
 
 header {
-    background: #553686;
+    background: #5a4975;
     padding: 10px;
 }
 
@@ -16,6 +17,7 @@ nav ul {
 }
 
 nav ul li {
+    color: royalblue;
     display: inline;
     margin: 0 15px;
 }
