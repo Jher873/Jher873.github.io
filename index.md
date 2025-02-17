@@ -1,5 +1,5 @@
 ---
-layout: resume  # Fixed typo from 'defualt' to 'default'
+layout: resume  
 title: Home
 ---
 
