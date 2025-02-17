@@ -1,5 +1,5 @@
 ---
-layout: About
+layout: defualt
 title: Home
 ---
 #  Justin M Hernandez 
