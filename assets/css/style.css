@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background: #333;
+    background: #553686;
     padding: 10px;
 }
 
@@ -21,7 +21,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: white;
+    color: rgb(155, 71, 189);
     text-decoration: none;
 }
 
@@ -31,6 +31,6 @@ main {
 
 footer {
     margin-top: 20px;
-    background: #f8f8f8;
+    background: #8826c0;
     padding: 10px;
 }
