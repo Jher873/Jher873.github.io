@@ -31,7 +31,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: rgb(202, 66, 161); /* Purple color for links */
+    color: rgb(200, 202, 66); /* Purple color for links */
     text-decoration: none;
     font-weight: bold;
     transition: color 0.3s ease; /* Smooth color transition */
