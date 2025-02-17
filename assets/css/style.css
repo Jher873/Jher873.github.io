@@ -11,7 +11,7 @@ body {
 
 /* Header styling */
 header {
-    background: #493bc0; /* Soft purple background */
+    background: #bc3bc0; /* Soft purple background */
     padding: 15px; /* Increased padding for better spacing */
     color: white; /* White text for header */
     font-size: 1.5em; /* Larger text for header */
@@ -25,7 +25,7 @@ nav ul {
 }
 
 nav ul li {
-    color: royalblue; /* Blue color for navigation items */
+    color: rgb(204, 212, 88); /* Blue color for navigation items */
     display: inline-block; /* Inline-block for better alignment */
     margin: 0 20px; /* More spacing between nav items */
 }
@@ -39,7 +39,7 @@ nav ul li a {
 
 /* Change link color on hover */
 nav ul li a:hover {
-    color: #f39c12; /* Gold color on hover */
+    color: #6aca1b; /* Gold color on hover */
 }
 
 /* Main content styling */
@@ -51,9 +51,9 @@ main {
 /* Footer styling */
 footer {
     margin-top: 30px; /* Added more space above footer */
-    background: #9b1be6; /* Purple background */
+    background: #1d60ad; /* Purple background */
     padding: 15px; /* More padding for better spacing */
-    color: white; /* White text in footer */
+    color: rgb(10, 187, 10); /* White text in footer */
     font-size: 0.9em; /* Slightly smaller text */
 }
 
