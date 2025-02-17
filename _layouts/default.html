@@ -1,25 +1,36 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A simple and clean Jekyll site."> <!-- Added description for SEO -->
     <title>{{ page.title }} - {{ site.title }}</title>
-    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
+
 <body>
+    <!-- Header Section -->
     <header>
-        <nav>
+        <nav aria-label="Main Navigation"> <!-- Added aria-label for accessibility -->
             <ul>
-                <li><a href="{{ "/" | relative_url }}">Home</a></li>
-                <li><a href="{{ "/about" | relative_url }}">About</a></li>
+                <li><a href="{{ '/' | relative_url }}">Home</a></li>
+                <li><a href="{{ '/about' | relative_url }}">About</a></li>
             </ul>
         </nav>
     </header>
+
+    <!-- Main Content Section -->
     <main>
-        {{ content }}
+        {{ content }} <!-- This will display the page content -->
     </main>
+
+    <!-- Footer Section -->
     <footer>
         <p>&copy; 2025 {{ site.title }} - Powered by Jekyll</p>
     </footer>
+
+    <!-- Optional: Add scripts here (e.g., Google Analytics, JavaScript libraries) -->
 </body>
+
 </html>
