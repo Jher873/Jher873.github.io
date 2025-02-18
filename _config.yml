@@ -1,8 +1,8 @@
-theme: jekyll-theme-minimal
+theme: jekyll resume theme
 
-title: My Custom Jekyll Theme
+title: Justin Hernandez Resume
 
-Introduction: Justin Hernandez
+author: Justin Hernandez
 
-description: A Work In-progress.
-# theme: resume 
+description: A work in progress.
+
