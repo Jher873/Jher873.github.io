@@ -1,3 +1,8 @@
+
+
+@import"{{ site.resume}}";
+
+
 /* Body styling */
 body {
     color: rgb(71, 86, 221); /* Greenish color for text */
