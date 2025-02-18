@@ -1,5 +1,5 @@
 ---
-layout: resume  # Using the custom layout created above
+layout: default  # Using the custom layout created above
 title: "Justin M Hernandez"
 description: "Experienced Web Developer and Designer"
 bio: "I am a web developer with a passion for building clean and interactive websites. My expertise spans front-end and back-end development."
