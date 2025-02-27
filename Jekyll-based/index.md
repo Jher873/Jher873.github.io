@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Justin M Hernandez"
-description: "Experienced Web Developer and Designer"
+description: "IT Security Analyst Consultant"
 ---
 
 ## About Me
